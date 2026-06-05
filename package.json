@@ -1,0 +1,11 @@
+{
+  "name": "ali-ates-gayrimenkul",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ali Ateş Gayrimenkul Danışmanlığı tek sayfa web sitesi",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {}
+}

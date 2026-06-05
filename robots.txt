@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aliatesgayrimenkul.com/sitemap.xml
